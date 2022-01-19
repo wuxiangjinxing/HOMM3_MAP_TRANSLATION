@@ -1,0 +1,1642 @@
+===== Map name =====
+Atlantic Revolutions
+
+===== Map description =====
+123
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+fr0-1840PlayerResourscetaken
+Message:
+December 15, 1840, a cold day today.Napoleon's remains was transferred from steamboat La Dorade to a huge funeral car led by 16 black horses. The funeral procession crosses the Noy Bridge to the Arc de Triomphe, then moves along the Champs-Elysées , and then crosses the Concorde Bridge ,to the L'hotel des Invalides. You are waiting for the return of the emperor's remains.
+
+Name:
+fr1-1840
+Message:
+Suddenly you find a strange door behind you--like  gate of magic, and your horse is running towards that gate
+
+Name:
+na0-teataxPlayerResourscetaken
+Message:
+Since The Stamp Act,The British government didn't stop trying to tax the colonies.	We were also told we had to pay high taxes on the tea. This tax was called the Tea Act.This didn't seem fair to the colonies as we were not represented in British Parliament and didn't have a say on how the taxes should be done.		
+
+Name:
+na1-Bostonteaparty
+Message:
+You,Ratonhnhaké:ton, dress as a Mohawk Indian, go to the port,get on the Britian ship, and lead the destruction of 342 chests of tea on that three ships. The informant of the Son of Liberty is waiting for you to meet
+
+Name:
+Ai-na0-unlimitedresources
+Message:
+Give Ai unlimited resources
+
+Name:
+Ai-sp0-unlimitedresources
+Message:
+unlimitedresources
+
+Name:
+Ai-br0-unlimitedresources
+Message:
+unlimitedresources
+
+Name:
+Ai-au0-unlimitedresources
+Message:
+unlimitedresources
+
+Name:
+Ai-ru0-unlimitedresources
+Message:
+unlimitedresources
+
+Name:
+sa0-PlayerResourscetaken
+Message:
+"Whites, mulattos and blacks loathed each other. The poor whites couldn't stand the rich whites, the rich whites despised the poor whites, the middle-class whites were jealous of the aristocratic whites, the whites born in France looked down upon the locally born whites, mulattoes envied the whites, despised the blacks and were despised by the whites; free Negroes brutalized those who were still slaves, Haitian born blacks regarded those from Africa as savages. Everyone—quite rightly—lived in terror of everyone else. ...Haiti was hell, but Haiti was rich".
+
+Name:
+Ai-fr0-forstartingarmy
+Message:
+
+
+Name:
+all0-afterthestorm0
+Message:
+“So, is there a rebellion?”--Louis XVI
+
+Name:
+all0-afterthestorm1
+Message:
+ “No, Sire, a revolution!”--Duke de La Rochefoucauld
+
+Name:
+fr2-peasant uprisings-e1789721
+Message:
+Riots and peasant uprisings in Strasbourg (July 21), Le Mans (July 23), Colmar, Alsace and Hainaut (July 25).The revolutionary enthusiasm of citizens has led to a financial improvement
+
+Name:
+na2-Cickamauga
+Message:
+The Cherokees are Coming
+
+Name:
+Ai-sa+sw0-unlimitedresources
+Message:
+unlimitedresources
+
+Name:
+na3-Clark's militia
+Message:
+"I know the case is desperate; but, sir, we must either quit the country or attack Mr. Hamilton. No time is to be lost. Were I sure of a reinforcement, I should not attempt it. Who knows what fortune will do for us? Great things have been affected by a few men well conducted. Perhaps we may be fortunate. We have this consolation, that our cause is just, and that our country will be grateful and not condemn our conduct in case we fall through. If we fail, the Illinois as well as Kentucky, I believe, is lost."--Clark wrote to Governor Henry
+
+Name:
+Ai-fr1-unlimitedresources
+Message:
+unlimitedresources
+
+Name:
+fr+sa0-HaitiDanger
+Message:
+"The Saint-Domingue whites sleet at the foot of Vesuvius."--Count Mirabeau
+
+Name:
+Motto1
+Message:
+Men are haunted by the vastness of eternity.	And so we asked ourselves......will our actions echo across the centuries?	Will strangers hear our names long after we're gone...... and wonder who we were......how bravely we fought......how 	fiercely we loved?
+
+Name:
+na4-Lee
+Message:
+"Do not trust Lee"Ratonhnhaké:ton reminds Washington and  Continental Congress,"Don't often let him command the army in battle."
+
+Name:
+na5-War Hawks
+Message:
+The War Hawks' desire to annex the Canadas was similar to the enthusiasm for the annexation of Spanish Florida by inhabitants of the American South as both expected war to facilitate expansion into long-desired lands and end support for hostile tribes (Tecumseh's Confederacy in the North and the Creek in the South).
+
+Name:
+all1-PaduaCircular
+Message:
+July 5,1791, Emperor Leopold II issues the Padua Circular calling on the royal houses of Europe to come to the aid of Louis XVI, his brother-in-law.
+
+Name:
+all2-kingcantbeputontrial
+Message:
+July 15: National Assembly declares the king inviolable, and cannot be put on trial. Louis XVI suspended from his duties until the ratification of a new Constitution.
+
+Name:
+all3- Louis XVI'sbrothersrefusereturn 
+Message:
+December 3,1791, Louis XVI's brothers, the counts of Provence and Artois refuse to return to France, citing "the moral and physical captivity in which the King is being held." 
+
+Name:
+all4-AustriaandPrussiainvade
+Message:
+February 7,1792,Austria and Prussia sign in Berlin a military convention to invade France and defend the monarchy.
+
+Name:
+all5-Brunswickcomes
+Message:
+March 7: The Duke of Brunswick is named to command a joint Austrian-Prussian invasion of France.
+
+Name:
+all6-Chapter2warbeginstheFirstCoalition
+Message:
+Chapter 2:French Revolutionary Wars	War of the First Coalition	April 20,1792, The Assembly declares war on the King of Bohemia and Hungary, i.e. to the Holy Roman Empire.
+
+Name:
+fr3-LaMarseillaise
+Message:
+<<Chant de guerre pour l'armée du Rhin>>	Allons enfants de la Patrie,	Le jour de gloire est arrivé !	Contre nous de la tyrannie	L'étendard sanglant est levé, (bis)	Entendez-vous dans les campagnes	Mugir ces féroces soldats ?	Ils viennent jusque dans vos bras	égorger vos fils, vos compagnes !		Aux armes, citoyens,	Formez vos bataillons,	Marchons, marchons !	Qu'un sang impur	Abreuve nos sillons !		Que veut cette horde d'esclaves,	De tra?tres, de rois conjurés ?	Pour qui ces ignobles entraves,	Ces fers dès longtemps préparés ? (bis)	Fran?ais, pour nous, ah! quel outrage	Quels transports il doit exciter !	C'est nous qu'on ose méditer	De rendre à l'antique esclavage !		Aux armes, citoyens...		Quoi ! des cohortes étrangères	Feraient la loi dans nos foyers !	Quoi ! Ces phalanges mercenaires	Terrasseraient nos fiers guerriers ! (bis)	Grand Dieu! Par des mains encha?nées	Nos fronts sous le joug se ploieraient	De vils despotes deviendraient	Les ma?tres de nos destinées !		Aux armes, citoyens...		Tremblez, tyrans et vous perfides	L'opprobre de tous les partis,	Tremblez ! vos projets parricides	Vont enfin recevoir leurs prix ! (bis)	Tout est soldat pour vous combattre,	S'ils tombent, nos jeunes héros,	La terre en produit de nouveaux,	Contre vous tout prêts à se battre !		Aux armes, citoyens...		Fran?ais, en guerriers magnanimes,	Portez ou retenez vos coups !	épargnez ces tristes victimes,	à regret s'armant contre nous. (bis)	Mais ces despotes sanguinaires,	Mais ces complices de Bouillé,	Tous ces tigres qui, sans pitié,	Déchirent le sein de leur mère !		Aux armes, citoyens...		Amour sacré de la Patrie,	Conduis, soutiens nos bras vengeurs	Liberté, Liberté chérie,	Combats avec tes défenseurs ! (bis)	Sous nos drapeaux que la victoire	Accoure à tes males accents,	Que tes ennemis expirants	Voient ton triomphe et notre gloire !		Aux armes, citoyens...		(Couplet des enfants)	Nous entrerons dans la carrière	Quand nos a?nés n'y seront plus,	Nous y trouverons leur poussière	Et la trace de leurs vertus (bis)	Bien moins jaloux de leur survivre	Que de partager leur cercueil,	Nous aurons le sublime orgueil	De les venger ou de les suivre.		Aux armes, citoyens...	                                        --Claude Joseph Rouget de Lisle, April 1792
+
+Name:
+all7-BrunswickManifesto
+Message:
+"Should the royal family be harmed, an "exemplary and eternally memorable revenge" will follow." The Austrian commander Charles William Ferdinand, Duke of Brunswick warns,July 25,1792
+
+Name:
+fr4-LaCarmagnole
+Message:
+<<La Carmagnole>>	Madame Veto avait promis,	Madame Veto avait promis.	de faire égorger tout Paris,	de faire égorger tout Paris.	Mais son coup a manqué,	grace à nos canoiners.		Dansons la Carmagnole	Vive le son,	Vive le son,	Dansons la Carmagnole	Vive le son du canon.		Monsieur Veto avait promis (bis)	D'être fidèle à son pays, (bis)	Mais il y a manqué,	Ne faisons plus quartié.		Antoinette avait résolu (bis)	De nous faire tomber sur le cul; (bis)	Mais le coup a manqué	Elle a le nez cassé.		Son Mari se croyant vainqueur, (bis)	Connaissait peu notre valeur, (bis)	Va, Louis, gros paour,	Du Temple dans la tour.		Les Suisses avaient promis, (bis)	Qu'ils feraient feu sur nos amis, (bis)	Mais comme ils ont saute!	Comme ils ont tous danse!		Quand Antoinette vit la tour, (bis)	Elle voulut faire demi-tour, (bis)	Elle avait mal au coeur	De se voir sans honneur.		                         --Insurrection of 10 August 1792
+
+Name:
+all8-thetrialofLouis XVI 
+Message:
+On December 3 ,1792,Robespierre, leader of the Jacobins and First Deputy for Paris in the Convention, demands that the King be put to death.Three days later,at the proposal of Jean-Paul Marat, the Convention rules that each deputy must individually and publicly declare his vote on the death penalty for the King.
+
+Name:
+sa1-Frenchdeclareslaveryabolished
+Message:
+"Representatives of the French people, until now our decrees of liberty have been selfish, and only for ourselves. But today we proclaim it to the universe, and generations to come will glory in this decree; we are proclaiming universal liberty ... We are working for future generations; let us launch liberty into the colonies; the English are dead, today."-- Georges Danton, one of the Frenchmen present at the meeting of the National Convention, expressed this sentiment of French declare slavery abolished
+
+Name:
+br+fr0-WarinVendéebegin
+Message:
+March 7: War in the Vendée. Armed uprising against the rule of the Convention, particularly against conscription into the army
+
+Name:
+br1-Fédon'srebellion
+Message:
+Fédon's rebellion (also known as the Brigands' War, or Fédon's Revolution, 2 March 1795 - 19 June 1796) was an uprising against British rule in Grenada.The rebellion had lasted over a year, consumed the resources of 16 British regiments,—about 10,000 men, including slaves and skilled mercenaries—and cost over ￡2,500,000 in sterling
+
+Name:
+fr5-warwithus
+Message:
+March 2,1797: The Directory authorizes French warships to capture U.S. ships, in retaliation for the British-US treaty of February 20, 1796.
+
+Name:
+all9-Chapter3SecondCoalition
+Message:
+Chapter 3:French Revolutionary Wars	War of the Second Coalition	December 29,1798: Alliance (Second Coalition) between Russia, Britain and the Kingdoms of Naples and Sicily against France signed.
+
+Name:
+sa2-Chapter4forSA-CryofDolores
+Message:
+Chapter 4:Spanish American wars of independence	Mexican War of Independence	"My children: a new dispensation comes to us today. Will you receive it? Will you free yourselves? Will you recover the lands stolen three hundred years ago from your forefathers by the hated Spaniards? We must act at once... Will you defend your religion and your rights as true patriots? Long live Our Lady of Guadalupe! Death to bad government! Death to the Gachupines!"	      --Cry of Dolores,Miguel Hidalgo,16th September 1810
+
+Name:
+BR+FR+Au+Ru-Chatper4WaroftheThirdCoalition-NapoleonicWarsbegin
+Message:
+Chapter 4:Napoleonic Wars 	War of the Third Coalition	In March of last year, France and Britain agreed to cease hostilities under the Treaty of Amiens. For the first time in ten years, all of Europe was at peace. However, many problems persisted between the two sides making the implementation of the treaty increasingly difficult. Britain declare war on France on 18 May 1803.
+
+Name:
+all11-FirstSerbianUprising
+Message:
+On February 14, 1804, in the small sumadija village of Orasac, nearby modern Arandelovac(47 miles from Nándorfehérv), in Maricevica jaruga, the Serbs gathered and decided to undertake an uprising.The First Serbian Uprising (Serbian: Prvi srpski ustanak, Serbian Cyrillic: Први српски устанак; Turkish: Birinci SIrp AyaklanmasI)breaks out.	It was an uprising of Serbs in the Sanjak of Smederevo against the Ottoman Empire from 14 February 1804 to 7 October 1813. Initially a local revolt against renegade janissaries who had seized power through a coup, it evolved into a war for independence (the Serbian Revolution) after more than three centuries of Ottoman rule and short-lasting Austrian occupations.
+
+Name:
+all12-HolyRomanEmpirefall3rdCoalitionended
+Message:
+On 1 August, the members of the confederation formally seceded from the Holy Roman Empire, and on 6 August, following an ultimatum by Napoleon, Francis II declared the Holy Roman Empire dissolved. Francis and his Habsburg dynasty continued as emperors of Austria.	The Third Coalition ended.
+
+Name:
+BR+FR+Au+Ru-Chatper5WaroftheFourthCoalition
+Message:
+Chapter 5:Napoleonic Wars 	War of the Fourth Coalition	On 9 October 1806, Prussia joined a renewed coalition, fearing the rise in French power after the defeat of Austria and establishment of the French-sponsored Confederation of the Rhine. Prussia and Russia mobilized for a fresh campaign with Prussia massing troops in Saxony.
+
+Name:
+fr6-BerlinDecree
+Message:
+The Berlin Decree was issued in Berlin by Napoleon on November 21, 1806.Continental system established	The decree proclaimed that "the British Isles are declared to be in a state of blockade" and forbade all correspondence or commerce with Great Britain.All British subjects found in the territory of France or its allies were to be arrested as prisoners of war and all British goods or merchandise seized. Any vessel found contravening the decree and landing in a continental port from a port of Britain or its colonies was to be treated as if it were British property and therefore liable to confiscation, along with all of its cargo	
+
+Name:
+na5-EmbargoActof1807
+Message:
+The Embargo Act of 1807 was a general trade embargo on all foreign nations that was enacted by the United States Congress. As a successor or replacement law for the 1806 Non-importation Act and passed as the Napoleonic Wars continued, it represented an escalation of attempts to coerce Britain to stop any impressment of American sailors and to respect American sovereignty and neutrality but also attempted to pressure France and other nations in the pursuit of general diplomatic and economic leverage.	
+
+Name:
+na6-failureEmbago
+Message:
+The embargo proved to be a complete failure. It failed to improve the American diplomatic position, highlighted American weakness and lack of leverage, significantly (and only) damaged the American economy, and sharply increased domestic political tensions. 
+
+Name:
+BR+FR+Au+Ru-Chatper6WaroftheFifthCoalition
+Message:
+Chapter 6:Napoleonic Wars 	War of the Fifth Coalition,10th Franco-Austrian war	On the early morning of 10 April ,1809, leading elements of the Austrian army crossed the Inn River and invaded Bavaria.
+
+Name:
+sa3-FederalRepublicofCentralAmerica
+Message:
+On July 1, 1823, the Congress of Central America declared absolute independence from Spain, Mexico, and any other foreign nation, and established a republican system of government.
+
+Name:
+na7-Chapter4forNA-WAROF1812
+Message:
+Chapter 4:The War of 1812	The War of 1812 (June 1812 - February 1815) was a conflict fought between the United States and its allies, and the United Kingdom of Great Britain and Ireland and its dependent colonies in North America and Native American allies. The conflict began when the United States declared war in June 1812, and ended in a restoration of the pre-war status quo when a peace treaty agreed to earlier was ratified by the United States in February 1815. Its consequences include establishment of a separate Canadian state, an end of hopes for an independent Native American confederation in the North West and paving the way for the western expansion of the US.
+
+Name:
+BR+FR+Au+Ru-Chapter7WaroftheSixthCoalition
+Message:
+Chapter 7:Napoleonic Wars 	War of the Sixth Coalition,sometimes known in Germany as the War of Liberation, a coalition of Austria, Prussia, Russia, the United Kingdom, Portugal, Sweden, Spain and a number of German States,began on 3 March 1813.	
+
+===== Heroes =====
+
+Name:
+Songis
+Biography:
+
+
+Name:
+élise
+Biography:
+
+
+Name:
+Dumas
+Biography:
+
+
+Name:
+Nelson
+Biography:
+
+
+Name:
+Rothschild
+Biography:
+
+
+Name:
+Oudinot
+Biography:
+
+
+Name:
+Ney
+Biography:
+
+
+Name:
+Murat
+Biography:
+
+
+Name:
+Larrey
+Biography:
+
+
+Name:
+LaFayette
+Biography:
+
+
+Name:
+MacDonell
+Biography:
+
+
+Name:
+Pauline
+Biography:
+
+
+Name:
+Pius VII
+Biography:
+
+
+Name:
+Joseph
+Biography:
+
+
+Name:
+Wellington
+Biography:
+
+
+Name:
+Caulaincourt
+Biography:
+
+
+Name:
+Davout
+Biography:
+
+
+Name:
+Madison
+Biography:
+
+
+Name:
+Jefferson
+Biography:
+美元之父
+
+Name:
+Washington
+Biography:
+
+
+Name:
+Charles Lee
+Biography:
+
+
+Name:
+Morgan
+Biography:
+
+
+Name:
+Bessières
+Biography:
+
+
+Name:
+Friant
+Biography:
+
+
+Name:
+Shay
+Biography:
+
+
+Name:
+Gimbernat
+Biography:
+
+
+Name:
+Soult
+Biography:
+
+
+Name:
+Fulton
+Biography:
+
+
+Name:
+Tallmadge
+Biography:
+Culper Ring 的间谍 Abraham Woodhull等人rpg
+
+Name:
+Stendhal
+Biography:
+
+
+Name:
+Lagrange
+Biography:
+
+
+Name:
+Poniatowski
+Biography:
+
+
+Name:
+Peale
+Biography:
+
+
+Name:
+Thunberg
+Biography:
+
+
+Name:
+MadamTussaud
+Biography:
+
+
+Name:
+Dobeln
+Biography:
+
+
+Name:
+Knox
+Biography:
+
+
+Name:
+Stedingk
+Biography:
+
+
+Name:
+Elhuyar
+Biography:
+
+
+Name:
+Austen
+Biography:
+
+
+Name:
+Germain
+Biography:
+
+
+Name:
+Laplace
+Biography:
+
+
+Name:
+Von Fersen
+Biography:
+
+
+Name:
+Farren
+Biography:
+
+
+Name:
+Lidstromer
+Biography:
+
+
+Name:
+Ampère
+Biography:
+
+
+Name:
+Franklin
+Biography:
+
+
+Name:
+Ricardo
+Biography:
+
+
+Name:
+Fouché
+Biography:
+
+
+Name:
+Boves
+Biography:
+
+
+Name:
+Brissot 
+Biography:
+
+
+Name:
+Louverture
+Biography:
+
+
+Name:
+Talleyrand
+Biography:
+
+
+Name:
+Mahmud II
+Biography:
+
+
+Name:
+Ewald
+Biography:
+
+
+Name:
+Robespierre
+Biography:
+
+
+Name:
+Bernadotte
+Biography:
+
+
+Name:
+Thompson
+Biography:
+
+
+Name:
+Schulmeister
+Biography:
+
+
+Name:
+Langeron
+Biography:
+
+
+Name:
+Bustamante
+Biography:
+
+
+Name:
+Freire
+Biography:
+
+
+Name:
+Wordsworth
+Biography:
+
+
+Name:
+Lecor
+Biography:
+
+
+Name:
+George III
+Biography:
+
+
+Name:
+álava
+Biography:
+
+
+Name:
+Congreve
+Biography:
+
+
+Name:
+Barreto
+Biography:
+
+
+Name:
+Blücher
+Biography:
+
+
+Name:
+Schwarzenber
+Biography:
+
+
+Name:
+John VI
+Biography:
+
+
+Name:
+Hill
+Biography:
+"Daddy" Hill
+
+Name:
+Dalton
+Biography:
+
+
+Name:
+Somerviue
+Biography:
+
+
+Name:
+Watt
+Biography:
+
+
+Name:
+L.Philippe
+Biography:
+
+
+Name:
+Duke of York
+Biography:
+
+
+Name:
+Jenner
+Biography:
+
+
+Name:
+Kutuzov
+Biography:
+
+
+Name:
+PittTheYoung
+Biography:
+
+
+Name:
+Weyrother
+Biography:
+
+
+Name:
+Smith
+Biography:
+
+
+Name:
+Klenau
+Biography:
+
+
+Name:
+Franz II
+Biography:
+
+
+Name:
+Metternich
+Biography:
+
+
+Name:
+Charles
+Biography:
+
+
+Name:
+J.Joseph
+Biography:
+
+
+Name:
+Davidovich
+Biography:
+
+
+Name:
+Scharnhorst
+Biography:
+
+
+Name:
+Schiller
+Biography:
+
+
+Name:
+Beethoven 
+Biography:
+
+
+Name:
+Radetzky
+Biography:
+
+
+Name:
+Frederick I
+Biography:
+
+
+Name:
+Caroline
+Biography:
+
+
+Name:
+Breguet
+Biography:
+
+
+Name:
+Liniers
+Biography:
+
+
+Name:
+Yermolov
+Biography:
+
+
+Name:
+Bagration
+Biography:
+
+
+Name:
+Dwyer
+Biography:
+
+
+Name:
+Raevsky
+Biography:
+
+
+Name:
+Andrei
+Biography:
+
+
+Name:
+Wittgenstein
+Biography:
+
+
+Name:
+Suvorov
+Biography:
+
+
+Name:
+Platov
+Biography:
+
+
+Name:
+Gauss
+Biography:
+
+
+Name:
+Armfelt
+Biography:
+
+
+Name:
+Barclay
+Biography:
+
+
+Name:
+Miloradovich
+Biography:
+
+
+Name:
+Arakcheyev
+Biography:
+
+
+Name:
+Brunswick
+Biography:
+
+
+Name:
+William III
+Biography:
+
+
+Name:
+Lewis&Clark
+Biography:
+
+
+Name:
+Ribas
+Biography:
+
+
+Name:
+德川家齐
+Biography:
+
+
+Name:
+Morales
+Biography:
+
+
+Name:
+Bolívar
+Biography:
+
+
+Name:
+Sucre
+Biography:
+
+
+Name:
+Díez
+Biography:
+
+
+Name:
+San Martín
+Biography:
+
+
+Name:
+Carrera 
+Biography:
+
+
+Name:
+Moreno
+Biography:
+
+
+Name:
+Ferreira
+Biography:
+
+
+Name:
+James Cook
+Biography:
+
+
+Name:
+Sacagawea
+Biography:
+
+
+Name:
+Kies
+Biography:
+
+
+Name:
+Humboldt
+Biography:
+
+
+Name:
+O'Higgins
+Biography:
+
+
+Name:
+Miranda
+Biography:
+
+
+Name:
+Goethe
+Biography:
+
+
+Name:
+Belzoni
+Biography:
+
+
+Name:
+De Stael
+Biography:
+
+
+Name:
+Cochrane
+Biography:
+
+
+Name:
+Hegel
+Biography:
+
+
+Name:
+Benjumeda
+Biography:
+
+
+Name:
+Francois
+Biography:
+
+
+Name:
+Stein
+Biography:
+
+
+Name:
+Fourier
+Biography:
+
+
+Name:
+Stephenson
+Biography:
+
+
+Name:
+Volta
+Biography:
+
+
+Name:
+Kosciuszko
+Biography:
+
+
+Name:
+悲惨世界
+Biography:
+
+
+Name:
+Orsted
+Biography:
+
+
+Name:
+Hamilton
+Biography:
+
+
+Name:
+Adams
+Biography:
+
+
+Name:
+Napoléon
+Biography:
+
+
+Name:
+Connor
+Biography:
+
+
+Name:
+Lannes
+Biography:
+
+
+Name:
+Clausewitz
+Biography:
+
+
+Name:
+Sharpe
+Biography:
+
+
+Name:
+Dolgorukov
+Biography:
+
+
+Name:
+Bourbon
+Biography:
+
+
+Name:
+郑一嫂
+Biography:
+
+
+Name:
+Masséna
+Biography:
+
+
+Name:
+Jack Sparrow
+Biography:
+
+
+Name:
+Alexander I
+Biography:
+
+
+Name:
+Arno
+Biography:
+
+
+===== Objects =====
+
+(226, 241, 0) ***Sign***
+Message:
+Maritsa river
+
+(213, 247, 0) ***Sign***
+Message:
+Struma River
+
+(195, 238, 0) ***Sign***
+Message:
+Ibar river
+
+(187, 248, 0) ***Sign***
+Message:
+Maja Jezerca(2,694 m)
+
+(188, 248, 0) ***Event***
+Message:
+Genesis 6:4, "There were giants in the earth in those days; and also after that, when the sons of God came unto the daughters of men, and they bare children to them, the same became mighty men which were of old men of renown." The giant offspring of this union between the sons of God and the daughters of men were called the Nephilim, who were known for their gigantic height. They spread from the Biblical Lands to Dinaric Alps ,the British Isles and the Ohio Valley.This giant race was called the Dinaric linked with the ancient Amorite Babylonian symbols and  advanced mathematics discovered by the Amorites .	Stonehenge and the many henges around the world may created by them.	This is a must explory for anyone who wants an affirmation of one of the most mysterious chapters in the Bible.	Now you arrive the highest area of Dinaric Alps ,having the chance to takes the leap from mythology to science--to discover that the Nephilim were the last vestiges of primitive species	But here once again,we may have some troubles.
+
+(205, 241, 0) ***Sign***
+Message:
+Toplica river
+
+(196, 244, 0) ***Sign***
+Message:
+Pristina--known for its trade fairs and items, such as goatskin and goat hair as well as gunpowder
+
+(190, 245, 0) ***Sign***
+Message:
+ Patriarchate of Pec Monastery 
+
+(183, 243, 0) ***Sign***
+Message:
+Tara river	
+
+(170, 239, 0) ***Sign***
+Message:
+Neretva river
+
+(169, 243, 0) ***Sign***
+Message:
+Stari Most of Mostar
+
+(157, 239, 0) ***Sign***
+Message:
+Diocletian's Palace
+
+(159, 239, 0) ***Sign***
+Message:
+Split -- Velo misto 
+
+(169, 249, 0) ***Sign***
+Message:
+Walls of Dubrovnik
+
+(182, 250, 0) ***Sign***
+Message:
+Podgorica--under the rule of the Albanian Bushati Family of Shkodra
+
+(180, 245, 0) ***Sign***
+Message:
+Niksic
+
+(171, 247, 0) ***Sign***
+Message:
+Dubrovnik--Pearl of the Adriatic.	"Non bene pro toto libertas venditur auro(Liberty is not sold for all the gold )"-- Republic of Ragusa 
+
+(158, 248, 0) ***Sign***
+Message:
+Dmitry Senyavin
+
+(174, 250, 0) ***Sign***
+Message:
+Càttaro
+
+(194, 251, 0) ***Sign***
+Message:
+Prizren
+
+(202, 251, 0) ***Sign***
+Message:
+Skopje Fortress,North Macedonia
+
+(225, 251, 0) ***Sign***
+Message:
+Nestos river
+
+(219, 243, 0) ***Sign***
+Message:
+Musala peak(2,925m)
+
+(216, 249, 0) ***Sign***
+Message:
+Blagoevgrad
+
+(225, 243, 0) ***Sign***
+Message:
+Plovdiv Roman theatre
+
+(231, 244, 0) ***Sign***
+Message:
+Kardzhali
+
+(238, 240, 0) ***Sign***
+Message:
+Grand Synagogue of Adrianople
+
+(251, 238, 0) ***Sign***
+Message:
+Nicomedia 
+
+(250, 245, 0) ***Sign***
+Message:
+Bursa--a major centre for refugees from various ethnic backgrounds
+
+(241, 248, 0) ***Psychic Elemental***
+Message:
+"Let's swim across the Dardanelles and help Greece to fight the Ottoman Empire !"--Lord Byron
+
+(243, 250, 0) ***Sign***
+Message:
+Canakkale--a seaport of Ottoman Empire
+
+(251, 251, 0) ***Sign***
+Message:
+Balikesir
+
+(42, 246, 0) ***Sign***
+Message:
+Chelif River
+
+(29, 249, 0) ***Sign***
+Message:
+Chott Ech Chergui
+
+(64, 248, 0) ***Sign***
+Message:
+Chott el Hodna
+
+(16, 250, 0) ***Sign***
+Message:
+Saharan Atlas
+
+(8, 251, 0) ***Sign***
+Message:
+Mount Issa( 2,236 m) 
+
+(70, 249, 0) ***Sign***
+Message:
+Djebel Chélia(2,328 m)
+
+(66, 242, 0) ***Sign***
+Message:
+Rhumel River
+
+(6, 246, 0) ***Sign***
+Message:
+Tlemcen--a trading city which connected African and European merchants
+
+(66, 245, 0) ***Sign***
+Message:
+Tell Atlas
+
+(83, 246, 0) ***Sign***
+Message:
+Medjerda River
+
+(94, 246, 0) ***Sign***
+Message:
+Medina of Tunis
+
+(92, 246, 0) ***Sign***
+Message:
+Tunis
+
+(89, 242, 0) ***Sign***
+Message:
+Bizerte
+
+(92, 251, 0) ***Sign***
+Message:
+Great Mosque of Kairouan
+
+(68, 243, 0) ***Sign***
+Message:
+Tizi Ouzou
+
+(80, 251, 0) ***Sign***
+Message:
+Aurès Mountains
+
+(80, 242, 0) ***Sign***
+Message:
+Bona
+
+(63, 243, 0) ***Sign***
+Message:
+Algiers
+
+(115, 250, 0) ***Champion***
+Message:
+Knights of Order of St. John charge towards you
+
+(116, 250, 0) ***Pandora's Box***
+Message:
+Do You wish to occupy Order of St. John's property?	
+
+(112, 247, 0) ***Zealot***
+Message:
+"We support the French Republic!"--Maltese residents
+
+(136, 251, 0) ***Event***
+Message:
+Our Mediterranean fleet was destroyed by the British navy in the Battle of Nile
+
+(138, 251, 0) ***Quest Guard***
+Message:
+Battle of the Pyramids
+Capture Malta first
+"Form in squares!We will defeat those Mamluks cavaliers!"--Napoleon orders
+
+(145, 249, 0) ***Event***
+Message:
+Vivant Denon,Claude Louis Berthollet and Gaspard Monge join you
+
+(146, 249, 0) ***Event***
+Message:
+And inspector-general of artillery Marmont joins the traval 
+
+(147, 249, 0) ***Event***
+Message:
+"Look,Berthier is here too!"Lannes says.
+
+(148, 249, 0) ***Angel***
+Message:
+Pierre Daumesnil at your service
+
+(108, 246, 0) ***Pandora's Box***
+Message:
+Frigate squadron commanded by Admiral Denis Decrès at your service
+
+(108, 251, 0) ***Admiral's Hat***
+Message:
+The First Barbary War showed that America could execute a war far from home, and that American forces had the cohesion to fight together as Americans rather than separately as Georgians, New Yorkers, etc. The United States Navy and Marines became a permanent part of the American government and American history.
+
+(106, 251, 0) ***Quest Guard***
+Message:
+First Barbary War
+United States President Thomas Jefferson refused to pay this tribute. 
+Thank to William Eaton,,this was the first time the United States flag was raised in victory on foreign soil. The action is memorialized in a line of the Marines' Hymn—"the shores of Tripoli".
+
+(100, 243, 0) ***Quest Guard***
+Message:
+Pirates from the Barbary States seizing American merchant ships and holding the crews for ransom, demanding the U.S. pay tribute to the Barbary rulers
+
+(6, 242, 0) ***Sign***
+Message:
+Melilla--"Himno de Melilla"
+
+(2, 243, 0) ***Sign***
+Message:
+Ceuta--"Ceuta, mi ciudad querida",during the Napoleonic Wars, the city was garrisoned by British troops allied with Spain.
+
+(14, 242, 0) ***Sign***
+Message:
+Oran
+
+(15, 243, 0) ***Quest Guard***
+Message:
+Spanish forces under siege by Moors in Orán
+San Martín promoted to second sublieutenant after the battle.
+
+(23, 246, 0) ***Sign***
+Message:
+Saida
+
+(103, 241, 0) ***Behemoth***
+Message:
+General Jean-Andoche Junot at your service
+
+(139, 251, 0) ***Pandora's Box***
+Message:
+
+
+(140, 251, 0) ***Mummy***
+Message:
+You caught some Ottoman chiefs and some commanders
+
+(142, 251, 0) ***Sign***
+Message:
+Cairo
+
+(147, 251, 0) ***Quest Guard***
+Message:
+The British Admiral Sir Sidney Smith sends Napoleon a packet of French newspapers,it shows that the political situation in Paris was very dangerous, and a new Jacobin appeared.
+The Muiron and another boat are waiting at shore,let'sail back to France!
+
+(145, 251, 0) ***Pandora's Box***
+Message:
+The Ottoman forces were transported to Egypt by Sidney Smith's British fleet
+
+(145, 245, 0) ***Sign***
+Message:
+罗塞塔石碑 下方开罗右侧继续调整
+
+(146, 251, 0) ***Psychic Elemental***
+Message:
+You captured Ottoman Commander Mustafa Pasha
+
+(144, 251, 0) ***Quest Guard***
+Message:
+Battle of Abukir (1799)
+At this point, cavalry general Murat saw his opportunity and attacked with his cavalry, quickly routing the exposed Turks
+
+(76, 239, 0) ***Event***
+Message:
+You seem to be leading the fleet fortunately to find a route without the main force of the Royal Navy,but you still discovered by a small but elite fleet of the Royal Navy.
+
+(133, 246, 0) ***Event***
+Message:
+British Mediterranean fleet led by Rear-Admiral Sir Horatio Nelson
+
+(134, 249, 0) ***Quest Guard***
+Message:
+Battle of the Nile
+Nelson  sailed again, intending to search the seas off Cyprus, but decided to pass Alexandria again for a final check.
+Searching along the coast, Nelson  finally discovered the French fleet in Aboukir Bay on 1 August 1798
+
+(136, 250, 0) ***Pandora's Box***
+Message:
+French fleet under Vice-Admiral Fran?ois-Paul Brueys d'Aigalliers.
+
+(135, 251, 0) ***Archer***
+Message:
+Nelson gave orders that boats be sent to pull survivors from the water around the remains of Orient(the French flagship)
+
+(115, 248, 0) ***Quest Guard***
+Message:
+Napoleon sent his aide-de-camp Jean-Andoche Junot to request permission from the Grand Master for the French fleet to water at Malta.
+Find Jean-Andoche Junot 
+Napoleon sent his aide-de-camp Jean-Andoche Junot to request permission from the Grand Master for the French fleet to water at Malta.
+
+(133, 245, 0) ***Quest Guard***
+Message:
+After Battle of Cape St Vincent,Nelson was promoted to Rear Admiral of the Blue
+Nelson began searching the Italian coast for Napoleon's fleet, but was hampered by a lack of frigates that could operate as fast scouts.
+After a conference with his captains, Nelson decided Egypt was Napoleon's most likely destination and headed for Alexandria.
+
+(63, 239, 0) ***Event***
+Message:
+A naval division led by admiral Corentin Urbain Leissègues to Northern Africa to reduce attacks by Barbary corsairs  at your service
+
+(153, 247, 1) ***Sign***
+Message:
+Río Maranón
+
+(221, 247, 1) ***Event***
+Message:
+When you sprint towards the summit of Aconcagua, those Incan capacocha mummies wake up from the snow canyon and pounce on you, it looks like they are guarding the sacred summit remains and the ancient  Incan rituals.
+
+(8, 250, 1) ***Sign***
+Message:
+Río Balsas
+
+(23, 246, 1) ***Sign***
+Message:
+Pico de Orizaba(5636m)
+
+(31, 250, 1) ***Sign***
+Message:
+Río Verde
+
+(6, 244, 1) ***Sign***
+Message:
+Guanajuato City
+
+(5, 246, 1) ***Sign***
+Message:
+San Nicolás College,Valladolid
+
+(3, 245, 1) ***Sign***
+Message:
+Guadalajara
+
+(4, 248, 1) ***Sign***
+Message:
+San Sebastian
+
+(32, 248, 1) ***Sign***
+Message:
+Antequera
+
+(56, 246, 1) ***Sign***
+Message:
+Mérida
+
+(57, 247, 1) ***Quest Guard***
+Message:
+The guards here are collecting Maya stones to build defences for protecting the residents
+
+(51, 248, 1) ***Sign***
+Message:
+Río Grijalva 
+
+(72, 248, 1) ***Sign***
+Message:
+Castle of San Felipe de Lara
+
+(71, 247, 1) ***Event***
+Message:
+Lake Izabal
+
+(70, 248, 1) ***Pandora's Box***
+Message:
+You saw an ancient sunken ship,while giant grebe birds, known as "poc" in Mayan is coming for you
+
+(65, 247, 1) ***Sign***
+Message:
+Belize
+
+(75, 250, 1) ***Sign***
+Message:
+Salvador
+
+(87, 248, 1) ***Sign***
+Message:
+Los Dolores Church,Tegucigalpa
+
+(91, 250, 1) ***Sign***
+Message:
+León, Nicaragua
+
+(98, 247, 1) ***Sign***
+Message:
+Río San Juan
+
+(101, 249, 1) ***Sign***
+Message:
+San José, Costa Rica
+
+(114, 249, 1) ***Sign***
+Message:
+Tabasará Mountains
+
+(65, 245, 1) ***Sign***
+Message:
+Battle of St. George's Caye
+
+(67, 244, 1) ***Sign***
+Message:
+Turneffe Atoll 不老泉可能在这
+
+(84, 245, 1) ***Sign***
+Message:
+Roatán
+
+(91, 244, 1) ***Sign***
+Message:
+Cayos Miskitos
+
+(94, 246, 1) ***Sign***
+Message:
+Bluefields--Mosquito Coast
+
+(97, 244, 1) ***Sign***
+Message:
+Corn Islands
+
+(107, 245, 1) ***Sign***
+Message:
+San Andrés
+
+(17, 247, 1) ***Sign***
+Message:
+Puebla
+
+(66, 250, 1) ***Sign***
+Message:
+Acatenango
+
+(66, 249, 1) ***Sign***
+Message:
+Santiago de Guatemala
+
+(95, 248, 1) ***Event***
+Message:
+Lake Nicaragua
+
+(235, 251, 1) ***Sign***
+Message:
+Chiloé Archipelago离岸保王党据点
+
+(14, 247, 1) ***Event***
+Message:
+When you came to the Popocatépetl, an old man,Gregorio warns you that the eruption will not happen this year.
+
+(230, 249, 1) ***Sign***
+Message:
+Plaza de la Independencia,Concepción
+
+(225, 249, 1) ***Sign***
+Message:
+Santiago--"The City of the Island Hills"
+
+(227, 247, 1) ***Event***
+Message:
+Mendoza
+
+(221, 248, 1) ***Sign***
+Message:
+Aconcagua(6,961 m)
+
+(224, 250, 1) ***Walking Dead***
+Message:
+Royalists of about 1,500 under Brigadier Rafael Maroto blocked San Martin's advance at a valley called Chacabuco, near Santiago
+
+(226, 250, 1) ***Event***
+Message:
+Battle of Maipú-This battle left 2,000 Spaniards dead and 3,000 captured; the patriots lost about 1,000 men. The victory produced tremendous results. The victory brought an end to major Spanish operations in Chile. It also allowed the united Chilean and Argentine patriots to launch a series of attacks against Spanish positions along South America’s Pacific coast, climaxing with the liberation of large parts of Peru from Spanish rule.	The historic victory is marked yearly every 5 April with a joint civil-military parade in Maipu, where the battle occurred (this day is Armor Day for the Chilean Army). A living history event at the last Sunday of April ends a month of national festivities in honor of the victory.
+
+(145, 249, 1) ***Quest Guard***
+Message:
+The two men could not come to an agreement, despite their common goals and mutual respect, even when San Martín offered to serve under Bolívar.
+Both men had very different ideas about how to organize the governments of the countries that they had liberated. Bolívar was in favor of forming a series of republics in the newly independent nations, whereas San Martín preferred the European system of rule and wanted to put monarchies in place. San Martín was also in favor of placing a European prince in power as King of Peru when it was to be liberated. 
+ Bolívar proposed a toast to “the two greatest men in South America: the general San Martín and myself” (Por los dos hombres más grandes de la América del Sur: el general San Martín y yo), whereas San Martín drank to “the prompt conclusion of the war, the organization of the different Republics of the continent and the health of the Liberator of Colombia 
+
+(144, 249, 1) ***Seer's Hut***
+Message:
+San Martín arrived in Guayaquil on July 25, where he was enthusiastically greeted by Bolívar.
+San Martín, after meeting with Bolívar for several hours on July 26, stayed for a banquet and ball given in his honor.
+After the conference, San Martín abdicated his powers in Peru and returned to Argentina. Soon afterward, he left South America entirely and retired in France.
+
+(144, 248, 1) ***Quest Guard***
+Message:
+Battle of Pichincha
+The encounter, fought in the context of the Spanish American wars of independence, pitted a Patriot army under General Antonio José de Sucre against a Royalist army commanded by Field Marshal Melchor Aymerich.
+The defeat of the Royalist forces loyal to Spain brought about the liberation of Quito, and secured the independence of the provinces belonging to the Real Audiencia de Quito, or Presidencia de Quito, the Spanish colonial administrative jurisdiction from which the Republic of Ecuador would eventually emerge.
+
+(141, 249, 1) ***Event***
+Message:
+Port Guayaquil 
+
+(166, 245, 1) ***Devil***
+Message:
+You capture Viceroy de la Serna 
+
+(166, 246, 1) ***Pandora's Box***
+Message:
+Royalists attack on you
+
+(164, 248, 1) ***Sign***
+Message:
+这一格玩家西班牙进入守卫
+
+(226, 249, 1) ***Quest Guard***
+Message:
+Battle of Chacabuco
+
+(228, 247, 1) ***Seer's Hut***
+Message:
+Curved saber of San Martín
+San Martín acquired the curved saber during his stay in London, shortly after he left Spain and before embarking for South America. Later, San Martin would arm his mounted grenadiers cavalry unit with similar weapons, which he deemed ideal for cavalry charges.
+
+(20, 250, 1) ***Seer's Hut***
+Message:
+José María Morelos join you 
+
+(167, 247, 1) ***Quest Guard***
+Message:
+Battle of Ayacucho."The Battle of Ayacucho is the summit of American glory, and the work of General Sucre. The planning of it was perfect, and the execution divine. Coming generations will commemorate the victory of Ayacucho to bless it and contemplate it sitting on the throne of freedom, commanding to Americans the exercise of their rights and the sacred laws of nature."	"You are called upon the greatest destinies, and I foresee that you are the rival of my Glory" (Bolivar, Letter to Sucre, Nazca, 26 April 1825).	"Then the Congress of Colombia made Sucre Chief General of the Colombian Army and its Commanding General, and the Congress of Peru gave him the Degree and Military Rank of Great Marshal of Ayacucho due to his actions."
+win Battle of Pichincha
+It was the battle that secured the independence of Peru and ensured independence for the rest of South America.
+
+(165, 249, 1) ***Sign***
+Message:
+Real Felipe Fortress
+
+(119, 245, 1) ***Sign***
+Message:
+Porto-bello
+
+(239, 247, 1) ***Sign***
+Message:
+Chubut River
+
+(232, 250, 1) ***Sign***
+Message:
+Valdivia
+
+(96, 251, 1) ***Sign***
+Message:
+Granada
+
+(249, 244, 1) ***Event***
+Message:
+Cape of Good Hope
+
+(226, 238, 1) ***Tome of Water Magic***
+Message:
+three
+
+===== End of file =====
